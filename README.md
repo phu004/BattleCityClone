@@ -1,4 +1,4 @@
-# BattleCityClone
+# Battle City Clone
 The goal of this project is to create a clone of the famous Battle City (NES) game. 2 Players can play together through TCP/IP connection. 
 
 ### How to run the game: ###
