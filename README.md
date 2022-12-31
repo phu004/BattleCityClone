@@ -11,3 +11,4 @@ For non-windows user, you will need to have Java installed. Download the same ga
 
 ### Some screenshots: ###
 ![alt text](https://github.com/phu004/test/blob/master/test/battle_tank01.png)
+![alt text](https://github.com/phu004/test/blob/master/test/battle_tank02.png)
